@@ -1,0 +1,26 @@
+body {
+    background-color: brown;
+}
+
+p {
+    color: darkseagreen;
+    font-size: 48px;
+    background-color: blueviolet;
+    border: 220px solid red;
+    padding: 50px;
+}
+
+.highlight {
+    background-color: yellowgreen;
+}
+
+.special {
+    font-weight: 900;
+    color: darkmagenta;
+}
+
+/* This is for screen sizes changing and not having images go off the screen at smaller viewport sizes */
+
+img {
+    max-width: 100%;
+}
